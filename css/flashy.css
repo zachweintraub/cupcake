@@ -1,0 +1,11 @@
+.flashy {
+  color: red;
+  font-style: italic;
+
+}
+
+.best {
+  border-style: dashed;
+  border-color: #eda1dc;
+  width: 280px;
+}
